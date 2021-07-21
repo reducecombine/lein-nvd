@@ -45,7 +45,7 @@
         [lein-codox "0.10.7"]
         [lein-cloverage "1.2.2"]
         [lein-ancient "0.7.0"]
-        [jonase/eastwood "0.4.3"]]
+        [jonase/eastwood "0.9.4"]]
       :dependencies [
         [clj-kondo "2021.06.18"]
         [commons-collections "20040616"]]}
